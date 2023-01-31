@@ -1,3 +1,16 @@
-.heading1{
-	color: blue;
+*{
+	box-sizing: border-box;
+	margin: 0;
+}
+
+
+.container .tasks-list__display{
+	background-color: white;
+	height: 300px;
+	width: 80%;
+	margin: auto;
+	border-radius: 5px;
+	padding: 1rem .5rem;
+	overflow-y: visible;: ;
+	scroll-behavior: smooth;
 }
